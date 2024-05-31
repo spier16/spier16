@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on data analysis of two-phase fluid systems, machine learning for engineering, and AI agents for desktop interaction
+- 🌱 I’m currently learning how to manage large datasets for ML analysis
+- 👯 I’m looking to collaborate on my software-agnostic automation project for Windows
+- 🤔 I’m looking for help with designing UI's
+- 💬 Ask me about the Razorbacks
+- 📫 How to reach me: sapierson87@gmail.com
+
 <!--
 **spier16/spier16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
